@@ -15,3 +15,4 @@ node deploy.js - deploys the contract to the rinkeby test network
 
 Running react:
 npm start
+[![Finished-Example.jpg](https://i.postimg.cc/y8Nc1pnV/Finished-Example.jpg)](https://postimg.cc/2VPVTwPJ)
